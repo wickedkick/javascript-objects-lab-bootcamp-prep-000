@@ -4,3 +4,7 @@ var recipes = {
   Dinner: 'Steak' 
   
 };
+
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
