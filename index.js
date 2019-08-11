@@ -1,1 +1,5 @@
-var recipes = { 'object' }
+var recipes = { 
+  Breakfast: 'Eggs',
+  Lunch: 'Sandwhich'
+  Dinner: 'Steak' };
+  
