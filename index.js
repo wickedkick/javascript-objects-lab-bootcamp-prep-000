@@ -8,5 +8,6 @@ var recipes = {
 function updateObjectWithKeyAndValue(object, key, value) {
   var meals = { object: key };
   meals['second breakfast'] = value;
+  return meals
 }
 
