@@ -1,5 +1,5 @@
 var recipes = { 
   Breakfast: 'Eggs',
-  Lunch: 'Sandwhich'
+  Lunch: 'Sandwhich',
   Dinner: 'Steak' };
   
